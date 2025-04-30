@@ -1,7 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm kunal kumar</h1>
 <h3 align="center">A passionate software developer and ethusiastic programmer from India</h3>
-<img align="right" alt="coding"width="400"src="https://user
-![image](https://github.com/user-attachments/assets/c430dfae-fa0f-4390-8367-277780e0e37c)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal834&label=Profile%20views&color=0e75b6&style=flat" alt="kunal834" /> </p>
