@@ -65,22 +65,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal834&theme=radical" alt="kunal834's Streak" />
 </p>
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/kunal-kumar-547a48313" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunal Kumar LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://codepen.io/kunal-kumar" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Kunal Kumar CodePen" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/kunalkumar" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kunal Kumar LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/kunal" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Kunal Kumar CodeChef" height="30" width="40" />
-  </a>
-</p>
